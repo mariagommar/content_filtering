@@ -1,0 +1,101 @@
+transportista_id;nombre_transportista;comentario
+1;DHL Express (Air);Excelente|Rapido
+2;FedEx International (Air);Eficiente|Fiable
+3;UPS Worldwide Express (Air);Agil|Fiable
+4;Maersk Line (Sea);Regular|Fiable
+5;Singapore Airlines Cargo (Air);Bueno|Rapido
+6;CMA CGM (Sea);Excelente|Agil
+7;DB Schenker (Land);Regular|Eficiente
+8;Kuehne + Nagel (Land);Bueno|Agil
+9;Emirates SkyCargo (Air);Excelente|Eficiente
+10;Panalpina (Air and Sea);Malo|Accequible
+11;TNT Express (Air);Rapido|Agil
+12;Korean Air Cargo (Air);Excelente|Fiable
+13;Crowley Maritime Corporation (Sea);Bueno|Regular
+14;China COSCO Shipping (Sea);Eficiente|Accequible
+15;Lufthansa Cargo (Air);Agil|Fiable
+16;Evergreen Marine (Sea);Regular|Rapido
+17;Expeditors International (Land and Air);Excelente|Eficiente
+18;Nippon Express (Land);Bueno|Accequible
+19;ABF Freight System (Land);Malo|Regular
+20;Atlas Air (Air);Excelente|Fiable
+21;Japan Airlines Cargo (Air);Eficiente|Agil
+22;Yang Ming Marine Transport (Sea);Bueno|Rapido
+23;Hapag-Lloyd (Sea);Excelente|Fiable
+24;Air Canada Cargo (Air);Regular|Accequible
+25;XPO Logistics (Land);Agil|Fiable
+26;Estes Express Lines (Land);Bueno|Regular
+27;LATAM Cargo (Air);Excelente|Eficiente
+28;Qantas Freight (Air);Malo|Rapido
+29;Asiana Cargo (Air);Bueno|Accequible
+30;Yangtze River Express (Air);Excelente|Regular
+31;APL Logistics (Sea);Excelente|Rapido
+32;Turkish Cargo (Air);Eficiente|Agil
+33;OOCL (Sea);Regular|Fiable
+34;BDP International (Land and Air);Bueno|Accequible
+35;NNR Global Logistics (Land);Agil|Fiable
+36;MOL (Mitsui O.S.K. Lines) (Sea);Bueno|Regular
+37;AirBridgeCargo Airlines (Air);Excelente|Eficiente
+38;Crowley Logistics (Sea and Land);Malo|Rapido
+39;Toll Group (Land);Excelente|Fiable
+40;Air New Zealand Cargo (Air);Bueno|Agil
+41;Evergreen Line (Sea);Eficiente|Accequible
+42;FedEx Supply Chain (Land);Regular|Fiable
+43;Seacoast Logistics (Land);Malo|Rapido
+44;Air Tahiti Nui Cargo (Air);Excelente|Agil
+45;Ceva Logistics (Land and Air);Bueno|Regular
+46;AIT Worldwide Logistics (Land);Eficiente|Fiable
+47;Air Cargo Global (Air);Regular|Accequible
+48;PIL (Pacific International Lines) (Sea);Bueno|Agil
+49;Cargolux (Air);Excelente|Eficiente
+50;OOCL Logistics (Land);Malo|Fiable
+51;Air France KLM Martinair Cargo (Air);Agil|Fiable
+52;Matson (Sea);Regular|Accequible
+53;DSV Panalpina (Land and Air);Excelente|Rapido
+54;Nippon Yusen Kaisha (NYK Line) (Sea);Bueno|Fiable
+55;Air Astana Cargo (Air);Eficiente|Agil
+56;APL Logistics (Land);Bueno|Regular
+57;DACHSER (Land and Air);Excelente|Eficiente
+58;Polar Air Cargo (Air);Malo|Rapido
+59;Geodis (Land and Air);Regular|Fiable
+60;ZIM Integrated Shipping Services (Sea);Bueno|Accequible
+61;Yusen Logistics (Land);Agil|Fiable
+62;Hamburg Süd (Sea);Excelente|Rapido
+63;SF Airlines (Air);Bueno|Regular
+64;HMM (Hyundai Merchant Marine) (Sea);Eficiente|Accequible
+65;Hyundai Glovis (Sea);Regular|Fiable
+66;Agility (Land and Air);Bueno|Accequible
+67;Kalitta Air (Air);Agil|Fiable
+68;Panalpina (Land and Air);Excelente|Eficiente
+69;GAC (Gulf Agency Company) Logistics (Land);Malo|Rapido
+70;Saudia Cargo (Air);Bueno|Agil
+71;OOCL (Orient Overseas Container Line) (Sea);Rapido|Fiable
+72;TS Lines (Sea);Excelente|Accequible
+73;DSV (Land and Air);Bueno|Agil
+74;NCA (Nippon Cargo Airlines) (Air);Eficiente|Regular
+75;ACL (Atlantic Container Line) (Sea);Agil|Fiable
+76;Silk Way Airlines (Air);Excelente|Rapido
+77;Seaboard Marine (Sea);Malo|Accequible
+78;DHL Global Forwarding (Land and Air);Regular|Fiable
+79;ANA Cargo (All Nippon Airways) (Air);Bueno|Eficiente
+80;Bollore Logistics (Land and Air);Agil|Fiable
+81;Cathay Pacific Cargo (Air);Bueno|Eficiente
+82;ANA Cargo (Air);Excelente|Rapido
+83;SkyTeam Cargo (Air);Malo|Accequible
+84;UPS Worldwide Express Freight (Air);Rapido|Fiable
+85;Sinotrans (Sea);Bueno|Eficiente
+86;SAS Cargo (Air);Excelente|Rapido
+87;Hyundai Merchant Marine (Sea);Malo|Accequible
+88;Swiss WorldCargo (Air);Rapido|Fiable
+89;Kerry Logistics (Land and Air);Agil|Regular
+90;SkyCargo (Emirates SkyCargo) (Air);Excelente|Fiable
+91;Nippon Express (Land and Air);Bueno|Accequible
+92;Air China Cargo (Air);Rapido|Fiable
+93;Sealand - A Maersk Company (Sea);Bueno|Eficiente
+94;Ethiopian Cargo (Air);Excelente|Agil
+95;Kintetsu World Express (Land and Air);Malo|Accequible
+96;United Parcel Service (UPS) (Land and Air);Rapido|Fiable
+97;DB Schenker (Land and Air);Agil|Regular
+98;Mediterranean Shipping Company (MSC) (Sea);Excelente|Accequible
+99;Delta Cargo (Air);Bueno|Fiable
+100;ONE (Ocean Network Express) (Sea);Rapido|Eficiente
